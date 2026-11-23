@@ -1,0 +1,23 @@
+
+/*-- scss:defaults --*/
+$body-bg: #1E1E1E;
+$body-color: #FF8996;
+$link-color: #33FF9C;
+
+.slide-logo {
+  right: 10px !important;
+  max-height: 10% !important;
+  width: auto !important;
+}
+
+figure {
+  text-align: center;
+}
+
+figure img {
+  border-radius: 5px;
+}
+
+span.MathJax, div.MathJax_Display {
+  color: #99E8B5;
+}
